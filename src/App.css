@@ -145,6 +145,7 @@ nav ul li {
     
 }
 .links{
+    z-index: 3;
     margin-top: 30px;
     display: grid;
     grid-template-columns: 1fr 1fr;
