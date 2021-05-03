@@ -35,7 +35,7 @@ function App() {
 
     <Router history={history}>
             <Switch>
-              <Route path="/ozzythebozzy" exact component={Startpage}/>
+              <Route path="/" exact component={Startpage}/>
               <Route path="/aboutme" exact component={aboutMe}/>   
               <Route path="/experiences" exact component={Experiences}/>  
               <Route path="/contact" exact component={Contacts}/>             
