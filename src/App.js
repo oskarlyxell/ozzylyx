@@ -1,6 +1,6 @@
 import Experiences from "./Experiences";
 import Contacts from "./Contacts";
-import { Route, Router, Switch } from 'react-router-dom';
+import { Route, HashRouter as Router, Switch } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css"
 import Particles from "react-particles-js";
