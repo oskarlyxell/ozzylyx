@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ozzylyx/static/css/main.65974ad3.chunk.css",
+    "main.js": "/ozzylyx/static/js/main.fa768568.chunk.js",
+    "main.js.map": "/ozzylyx/static/js/main.fa768568.chunk.js.map",
+    "runtime-main.js": "/ozzylyx/static/js/runtime-main.c5ad77cd.js",
+    "runtime-main.js.map": "/ozzylyx/static/js/runtime-main.c5ad77cd.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ozzylyx/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2abd1852.chunk.js": "/ozzylyx/static/js/2.2abd1852.chunk.js",
+    "static/js/2.2abd1852.chunk.js.map": "/ozzylyx/static/js/2.2abd1852.chunk.js.map",
+    "index.html": "/ozzylyx/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ozzylyx/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.65974ad3.chunk.css.map": "/ozzylyx/static/css/main.65974ad3.chunk.css.map",
+    "static/js/2.2abd1852.chunk.js.LICENSE.txt": "/ozzylyx/static/js/2.2abd1852.chunk.js.LICENSE.txt",
+    "static/media/SPSM.8b53679a.png": "/ozzylyx/static/media/SPSM.8b53679a.png",
+    "static/media/Screenshot_1.f61a9fb6.png": "/ozzylyx/static/media/Screenshot_1.f61a9fb6.png",
+    "static/media/App.css": "/ozzylyx/static/media/background.50fd61e2.jpg",
+    "static/media/boiler.ad971468.png": "/ozzylyx/static/media/boiler.ad971468.png",
+    "static/media/murloc_mayhem.73e15467.png": "/ozzylyx/static/media/murloc_mayhem.73e15467.png",
+    "static/media/profilbild.3ecf9af9.png": "/ozzylyx/static/media/profilbild.3ecf9af9.png",
+    "static/media/profilbilden.0d11c300.png": "/ozzylyx/static/media/profilbilden.0d11c300.png",
+    "static/media/radio.224cab99.jpg": "/ozzylyx/static/media/radio.224cab99.jpg",
+    "static/media/scissors.865cca98.png": "/ozzylyx/static/media/scissors.865cca98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5ad77cd.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2abd1852.chunk.js",
+    "static/css/main.65974ad3.chunk.css",
+    "static/js/main.fa768568.chunk.js"
+  ]
+}
