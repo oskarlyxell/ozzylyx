@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ozzylyx/static/css/main.65974ad3.chunk.css",
-    "main.js": "/ozzylyx/static/js/main.fa768568.chunk.js",
-    "main.js.map": "/ozzylyx/static/js/main.fa768568.chunk.js.map",
+    "main.js": "/ozzylyx/static/js/main.434e707f.chunk.js",
+    "main.js.map": "/ozzylyx/static/js/main.434e707f.chunk.js.map",
     "runtime-main.js": "/ozzylyx/static/js/runtime-main.c5ad77cd.js",
     "runtime-main.js.map": "/ozzylyx/static/js/runtime-main.c5ad77cd.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/ozzylyx/static/css/2.4c97ca4f.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.2abd1852.chunk.js",
     "static/css/main.65974ad3.chunk.css",
-    "static/js/main.fa768568.chunk.js"
+    "static/js/main.434e707f.chunk.js"
   ]
 }
